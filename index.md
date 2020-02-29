@@ -1,9 +1,11 @@
 ## Chaos Gamer 的超能力
 
-<center>在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。</center>
+<div align="center">
+在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。
 
-<center>![chaos-gamer](image/chaos-gamer-200px.png)</center>
-
+![chaos-gamer](image/chaos-gamer-200px.png)
+</div>
+  
 ### 哪裡找到我
 
 我即將在`西元2020年3月31日`出生。
