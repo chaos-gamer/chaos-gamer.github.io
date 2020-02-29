@@ -2,7 +2,7 @@
 
 
 <center>在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。</center>
-
+<br/><br/>
 
 <div align="center">
 <img src="image/chaos-gamer-200px.png" alt="Chaos Gamer" border="0">
@@ -18,7 +18,4 @@
 * **成員分組:** 依照活動組隊需求，將大家編號並自動分配組別。
 * **幸運降臨:** 依照活動抽籤需求，將大家編號並選出幸運之星。
 
-
-
-
-** **
+<br/><br/><br/><br/><br/>
