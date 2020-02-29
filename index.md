@@ -4,7 +4,6 @@
 <center>在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。</center>
 
 
-123
 <div align="center">
 <img src="image/chaos-gamer-200px.png" alt="Chaos Gamer" border="0">
 </div> 
