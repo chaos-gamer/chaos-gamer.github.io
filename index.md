@@ -1,10 +1,9 @@
 ## Chaos Gamer 的超能力
 
-<div align="center">
-在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。
 
-![chaos-gamer](image/chaos-gamer-200px.png)
-</div>
+<center>在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。<center>
+
+<img src="image/chaos-gamer-200px.png" alt="Chaos Gamer" align="middle">
   
 ### 哪裡找到我
 
