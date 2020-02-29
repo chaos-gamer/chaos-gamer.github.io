@@ -1,9 +1,10 @@
 ## Chaos Gamer 的超能力
 
+<div align="center">
+在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。
 
-<center>在每個充滿笑聲歡聚的場合，我願成為您的絕佳控場搭檔。</center>
-
-<img src="image/chaos-gamer-200px.png" alt="Chaos Gamer" align="middle">
+<img src="image/chaos-gamer-200px.png" alt="Chaos Gamer">
+</div> 
   
 ### 哪裡找到我
 
@@ -14,5 +15,7 @@
 * **遊戲推薦:** 依照活動喜好需求，即時獻策適合的團康或桌上遊戲。
 * **成員分組:** 依照活動組隊需求，將大家編號並自動分配組別。
 * **幸運降臨:** 依照活動抽籤需求，將大家編號並選出幸運之星。
+
+
 
 
