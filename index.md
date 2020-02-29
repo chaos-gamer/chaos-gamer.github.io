@@ -1,4 +1,4 @@
-![chaos-gamer](image/chaos-gamer.png =250x250)
+![chaos-gamer](image/chaos-gamer-250.png)
 
 ## Chaos Gamer 的超能力
 
